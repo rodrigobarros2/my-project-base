@@ -1,0 +1,1 @@
+npm i redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer react-router-dom styled-components yup history @rocketseat/unform reactotron-react-js reactotron-core-client history       
